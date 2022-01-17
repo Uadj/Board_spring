@@ -1,6 +1,51 @@
 # Board_spring
 책 : 스프링부트와 AWS로 혼자 구현하는 웹 서비스 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Spring</title><path d="M8.563 24c-1.839 0-4.435-.537-7.028-2.87l2.035-2.262c3.636 3.273 7.425 1.98 8.595.888.078-.079.156-.153.234-.23-3.83-.373-6.629-3.086-6.822-3.277-2.933-2.889-3.6-6.808-1.512-8.93s6.015-1.522 8.95 1.357c.257.246 3.116 3.052 3.677 6.605a6.776 6.776 0 002.727-5.426 6.62 6.62 0 00-1.995-4.791c-1.334-1.303-3.222-2.02-5.306-2.02V0c2.88 0 5.519 1.024 7.43 2.882 1.881 1.83 2.917 4.304 2.917 6.973a9.831 9.831 0 01-6.116 9.086c-.416 1.1-1.12 2.117-2.106 3.04-.97.905-2.865 1.908-5.28 2.01-.13.007-.262.009-.4.009zM7.283 9.077c-.425 0-.79.115-1.046.375-.749.762-.275 2.904 1.48 4.633l.008.009c.025.024 2.771 2.687 6.025 2.414v-.005c.015-2.873-2.808-5.597-2.837-5.625l-.02-.019C9.85 9.832 8.37 9.077 7.283 9.077Z"/></svg>
+<div align=center><h1>📚 STACKS</h1></div>
+
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angularjs&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
+  <br>
+</div>
 22.01.04 기준
 
 기본적인 게시글 작성, 수정, 삭제가 가능합니다.
