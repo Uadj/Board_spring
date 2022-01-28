@@ -39,8 +39,9 @@ AWS EC2, RDS 인스턴스
 22.01.16<br>
 <strike>http://52.78.126.80:8000/</strike><br>
 !글 등록시 403 error<br>
-!오류 구글 로그인은 도메인 주소가 있어야 리디렉션 가능<br>
+<strike>!오류 구글 로그인은 도메인 주소가 있어야 리디렉션 가능</strike><br>
 
 22.1.28<br>
 Rout53이용, Gabia 도메인 등록<br>
 http://boardspring.shop:8000/<br>
+구글 로그인 오류 수정완료.<br>
