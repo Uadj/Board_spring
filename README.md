@@ -27,3 +27,6 @@ AWS EC2, RDS 인스턴스
 Rout53이용, Gabia 도메인 등록<br>
 http://boardspring.shop:8000/<br>
 구글 로그인 오류 수정완료.<br>
+
+22.2.10
+EC2 인스턴스 재생성
