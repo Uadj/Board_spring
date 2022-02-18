@@ -20,7 +20,7 @@ AWS EC2, RDS 인스턴스
 
 22.01.16<br>
 <strike>http://52.78.126.80:8000/</strike><br>
-<strike>!글 등록시 403 error h2 db권한 문제<br> -> GUEST도 이용가능하게 변경
+<strike>!글 등록시 403 error h2 db권한 문제<br> -> GUEST도 이용가능하게 변경</strike>
 <strike>!오류 구글 로그인은 도메인 주소가 있어야 리디렉션 가능</strike><br>
 
 22.1.28<br>
@@ -33,3 +33,5 @@ EC2 인스턴스 재생성
   
 22.2.17
 모든 에러 수정
+포트 변경
+http://boardspring.shop:8080/
