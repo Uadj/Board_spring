@@ -33,5 +33,5 @@ EC2 인스턴스 재생성
   
 22.2.17
 모든 에러 수정
-포트 변경
-http://boardspring.shop:8080/
+포트 변경, 리디렉션
+http://boardspring.shop
