@@ -9,6 +9,13 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <br>
 </div>
+
+22.2.18
+
+https://boardspring.shop
+https등록완료
+
+
 22.01.04 기준
 
 기본적인 게시글 작성, 수정, 삭제가 가능합니다.
@@ -34,4 +41,3 @@ EC2 인스턴스 재생성
 22.2.17
 모든 에러 수정
 포트 변경, 리디렉션
-http://boardspring.shop
