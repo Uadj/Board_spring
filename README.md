@@ -15,7 +15,7 @@
 <br>
 <br>
 22.2.18
-https://boardspring.shop
+<h1>https://boardspring.shop</h1>
 https등록완료
 <br><br>
 22.2.17
@@ -27,7 +27,7 @@ EC2 인스턴스 재생성
 <br><br>
 22.1.28<br>
 Rout53이용, Gabia 도메인 등록<br>
-http://boardspring.shop:8000/<br>
+<strike>http://boardspring.shop:8000/</strike><br>
 구글 로그인 오류 수정완료.<br>
 
 22.01.16<br><br>
