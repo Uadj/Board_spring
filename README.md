@@ -2,7 +2,7 @@
 책 : 스프링부트와 AWS로 혼자 구현하는 웹 서비스 <br><br>
 ## 간단한 게시판을 구현하는 프로젝트입니다. <br><br>
 #### 기능 : 게시글 C(생성), R(조회), U(수정), D(삭제), 네이버, 구글 로그인<br><br>
-
+#### 배포 주소 : https://boardspring.shop
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
@@ -13,12 +13,11 @@
   <br>
 </div>
 <br>
-  ![155875365-e9f8bb51-98f4-476e-87a7-3146105790c8](https://user-images.githubusercontent.com/30551889/157786480-fabcd1af-40ca-4cc4-8d1c-3f08a8ed806a.png)
-
+<img width="954" alt="1s" src="https://user-images.githubusercontent.com/30551889/157786919-cde4ee4a-8205-40bd-ac96-1d8a37173a6b.png">
 <br>
-<br>
+<h2>  업데이트 이력</h2>
+<br><br>
 22.2.18
-<h1>https://boardspring.shop</h1>
 https등록완료
 <br><br>
 22.2.17
