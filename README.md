@@ -1,5 +1,8 @@
 # Board_spring
-책 : 스프링부트와 AWS로 혼자 구현하는 웹 서비스 
+책 : 스프링부트와 AWS로 혼자 구현하는 웹 서비스 <br><br>
+## 간단한 게시판을 구현하는 프로젝트입니다. <br><br>
+#### 기능 : 게시글 C(생성), R(조회), U(수정), D(삭제), 네이버, 구글 로그인<br><br>
+
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
@@ -10,7 +13,7 @@
   <br>
 </div>
 <br>
-![image](https://user-images.githubusercontent.com/30551889/155875365-e9f8bb51-98f4-476e-87a7-3146105790c8.png)
+  ![155875365-e9f8bb51-98f4-476e-87a7-3146105790c8](https://user-images.githubusercontent.com/30551889/157786480-fabcd1af-40ca-4cc4-8d1c-3f08a8ed806a.png)
 
 <br>
 <br>
