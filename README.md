@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <br>
+  Spring Boot, AWS(EC2, RDS[Mariadb], Route53, Load Balancer, ACM), Git
 </div>
 <br>
 <img width="954" alt="1s" src="https://user-images.githubusercontent.com/30551889/157786919-cde4ee4a-8205-40bd-ac96-1d8a37173a6b.png">
