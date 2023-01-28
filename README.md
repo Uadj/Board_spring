@@ -2,7 +2,7 @@
 책 : 스프링부트와 AWS로 혼자 구현하는 웹 서비스 <br><br>
 ## 간단한 게시판을 구현하는 프로젝트입니다. <br><br>
 #### 기능 : 게시글 C(생성), R(조회), U(수정), D(삭제), 네이버, 구글 로그인<br><br>
-#### 배포 주소 : https://boardspring.shop
+#### 배포 주소 : <strike>https://boardspring.shop</> 배포중단
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
